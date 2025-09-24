@@ -3,9 +3,13 @@
 https://youtu.be/gHj8leSTla4
 
 #Links
-##https://github.com/ObaidaKandakji/store-front-demo
-##https://github.com/ObaidaKandakji/order-service-demo
-##https://github.com/ObaidaKandakji/product-service-demo
+https://github.com/ObaidaKandakji/store-front-demo
+
+
+https://github.com/ObaidaKandakji/order-service-demo
+
+
+https://github.com/ObaidaKandakji/product-service-demo
 
 # README
 
